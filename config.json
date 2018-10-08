@@ -1,0 +1,28 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/techyblog",
+    "prod_uri":"mysql://root:@localhost/techyblog",
+    "fb_url":"https://facebook.com/",
+    "tw_url":"https://twitter.com/",
+    "gh_url": "https://github.com/",
+    "blog_title": "Tech Blog",
+    "blog_name":"Techy Blog",
+    "tag_line": "A Blog is Themed By Laksh",
+    "copyright_by_blog":"Techy Blog",
+    "gmail-user":"your@gmail.com",
+    "gmail-password":"your gmail password",
+    "about_user": "Hi This Website is Made by Laksh in this blog you get technology and tech tutorials and tech news you get information of latest technology articals and also get knowledge about phone,pc.\n I create Website and design website and database i create website with python and flask if you have to build website like this so you can contact me in the contact form.",
+    "no_of_posts": 2,
+    "posted_by":"Admin",
+    "login_image": "login-solid.svg",
+    "admin_user":"laksh",
+    "admin_password":"admin_password",
+    "upload_location":"C:\\Users\\laksh\\PycharmProjects\\1 flask\\static"
+
+
+  }
+
+
+}
